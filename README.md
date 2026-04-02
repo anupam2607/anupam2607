@@ -1,178 +1,104 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Anupam Nema | AI & Backend Developer</title>
-    
-    <style>
-        body {
-            margin: 0;
-            font-family: 'Segoe UI', sans-serif;
-            background: #0f172a;
-            color: #e2e8f0;
-        }
+<h1 align="center">Hi 👋, I'm Anupam Nema</h1>
+<h3 align="center">AI & Backend Developer | ML | NLP | GenAI</h3>
 
-        header {
-            text-align: center;
-            padding: 40px 20px;
-            background: linear-gradient(135deg, #1e293b, #0f172a);
-        }
+<p align="center">
+  <a href="https://github.com/anupam2607">GitHub</a> •
+  <a href="https://linkedin.com/in/anupam-nema">LinkedIn</a>
+</p>
 
-        header h1 {
-            font-size: 2.8rem;
-            margin: 0;
-        }
+<hr>
 
-        header p {
-            color: #94a3b8;
-        }
+<h2>🚀 About Me</h2>
+<ul>
+  <li>🔭 Working on AI + Backend Systems</li>
+  <li>🧠 Skilled in Machine Learning, NLP, RAG</li>
+  <li>⚡ Love building real-world AI projects</li>
+</ul>
 
-        .container {
-            max-width: 1100px;
-            margin: auto;
-            padding: 20px;
-        }
+<hr>
 
-        h2 {
-            border-left: 4px solid #38bdf8;
-            padding-left: 10px;
-            margin-top: 40px;
-        }
+<h2>🛠️ Tech Stack</h2>
 
-        .card {
-            background: #1e293b;
-            padding: 20px;
-            margin-top: 15px;
-            border-radius: 12px;
-            transition: 0.3s;
-        }
+<h3>💻 Languages</h3>
+<p>
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B"/>
+  <img src="https://img.shields.io/badge/SQL-orange?style=for-the-badge"/>
+</p>
 
-        .card:hover {
-            transform: translateY(-5px);
-        }
+<h3>🤖 AI / ML</h3>
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-purple?style=for-the-badge"/>
+</p>
 
-        ul {
-            padding-left: 20px;
-        }
+<h3>⚙️ Frameworks</h3>
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django"/>
+</p>
 
-        a {
-            color: #38bdf8;
-            text-decoration: none;
-        }
+<h3>🧠 Deep Learning</h3>
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch"/>
+</p>
 
-        .skills span {
-            display: inline-block;
-            background: #334155;
-            margin: 5px;
-            padding: 8px 12px;
-            border-radius: 8px;
-            font-size: 0.9rem;
-        }
+<hr>
 
-        footer {
-            text-align: center;
-            padding: 20px;
-            margin-top: 40px;
-            background: #020617;
-            color: #64748b;
-        }
-    </style>
-</head>
+<h2>🚀 Projects</h2>
 
-<body>
+<ul>
+  <li>
+    <b>🔐 AI Cyber Threat Detection</b><br>
+    NLP + RAG system for analyzing logs using FAISS and LLMs
+  </li>
 
-<header>
-    <h1>Anupam Nema</h1>
-    <p>AI & Backend Developer | ML | NLP | Generative AI</p>
-    <p>
-        📧 anupamnema0@gmail.com |
-        🔗 <a href="https://github.com/anupam2607" target="_blank">GitHub</a> |
-        🔗 <a href="https://www.linkedin.com/in/anupam-nema/" target="_blank">LinkedIn</a>
-    </p>
-</header>
+  <li>
+    <b>🏥 MedicoAI Health Suite</b><br>
+    Deep learning-based medical system + chatbot
+  </li>
 
-<div class="container">
+  <li>
+    <b>♻️ Swachh AI</b><br>
+    YOLOv8-based waste classification with IoT integration
+  </li>
+</ul>
 
-    <h2>🚀 About Me</h2>
-    <div class="card">
-        <p>
-            AI & Backend Developer specializing in Machine Learning, Deep Learning, and Generative AI.
-            Experienced in building scalable systems, RAG pipelines, and deploying ML models into production.
-        </p>
-    </div>
+<hr>
 
-    <h2>🎓 Education</h2>
-    <div class="card">
-        <p><b>B.Tech - Mathematics & Computing</b></p>
-        <p>MITS Gwalior (2023–2027) | SGPA: 8.35</p>
-    </div>
+<h2>📊 GitHub Stats</h2>
 
-    <h2>💼 Experience</h2>
-    <div class="card">
-        <h3>Aghron Forum — AI & Backend Developer</h3>
-        <ul>
-            <li>Built end-to-end AI systems with backend integration</li>
-            <li>Implemented RAG pipelines with vector embeddings</li>
-            <li>Developed REST APIs using FastAPI & Flask</li>
-            <li>Optimized ML models using performance metrics</li>
-        </ul>
-    </div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anupam2607&show_icons=true&theme=tokyonight"/>
+</p>
 
-    <div class="card">
-        <h3>EVOASTRA — Data Science Intern</h3>
-        <ul>
-            <li>Developed ML models using Scikit-learn</li>
-            <li>Performed EDA and feature engineering</li>
-            <li>Automated data workflows</li>
-        </ul>
-    </div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anupam2607&theme=tokyonight"/>
+</p>
 
-    <h2>🛠️ Skills</h2>
-    <div class="card skills">
-        <span>Python</span>
-        <span>SQL</span>
-        <span>C++</span>
-        <span>TensorFlow</span>
-        <span>PyTorch</span>
-        <span>NLP</span>
-        <span>RAG</span>
-        <span>FastAPI</span>
-        <span>Flask</span>
-        <span>LangChain</span>
-    </div>
+<hr>
 
-    <h2>🚀 Projects</h2>
+<h2>🔥 Contributions</h2>
 
-    <div class="card">
-        <h3>🔐 AI Cyber Threat Detection</h3>
-        <p>NLP + RAG system for analyzing logs and detecting threats using FAISS and LLMs.</p>
-    </div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anupam2607&theme=tokyo-night"/>
+</p>
 
-    <div class="card">
-        <h3>🏥 MedicoAI Health Suite</h3>
-        <p>Deep learning-based healthcare system with multi-model architecture and RAG chatbot.</p>
-    </div>
+<hr>
 
-    <div class="card">
-        <h3>♻️ Swachh AI</h3>
-        <p>YOLOv8-based waste classification system with IoT integration.</p>
-    </div>
+<h2>🏆 Achievements</h2>
+<ul>
+  <li>🏅 HackOrbit National Finalist</li>
+  <li>🌍 GSSoC Open Source Contributor</li>
+</ul>
 
-    <h2>🏆 Achievements</h2>
-    <div class="card">
-        <ul>
-            <li>HackOrbit National Finalist</li>
-            <li>Open Source Contributor (GSSoC)</li>
-            <li>Technical Team Member at SCRS</li>
-        </ul>
-    </div>
+<hr>
 
-</div>
-
-<footer>
-    © 2026 Anupam Nema | Built with ❤️ using HTML & CSS
-</footer>
-
-</body>
-</html>
+<h2>📫 Connect With Me</h2>
+<p>
+  📧 anupamnema0@gmail.com <br>
+  🔗 <a href="https://linkedin.com/in/anupam-nema">LinkedIn</a>
+</p>
