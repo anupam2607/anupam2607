@@ -97,12 +97,7 @@ Experienced in building end-to-end AI pipelines, RAG architectures, and deployin
   <li>MQTT-based communication system</li>
 </ul>
 
-<h3>🌾 Crop Price Prediction System</h3>
-<ul>
-  <li>LSTM-based time series forecasting model</li>
-  <li>Integrated weather APIs for accuracy</li>
-  <li>Built Flask web app for farmers</li>
-</ul>
+
 
 <hr>
 
